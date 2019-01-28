@@ -10,14 +10,28 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name">
+            android:name=".RequestService"></activity>
+        <activity
+            android:name=".RequestDetail"
+            />
+        <activity
+            android:name=".Report"
+            />
+        <activity
+            android:name=".ManageAccount" />
+        <activity
+            android:name=".RequestList">
+        </activity>
+       <activity android:name=".adminActivity" ></activity>
+        <activity android:name=".customerActivity"></activity>
+        <activity android:name=".loginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-    </application>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".translatorActivity"></activity>
+    </application>a
 
 </manifest>

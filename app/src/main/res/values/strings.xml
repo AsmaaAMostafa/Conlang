@@ -1,6 +1,31 @@
 <resources>
-    <string name="app_name">Conlang</string>
+    <string name="app_name">My Application</string>
+    <string name="if_you_dont_have_account_register_here">if you dont have account register here</string>
+    <string name="forget_password_click_here">forget password click here</string>
+    <string name="email_address">email address</string>
+    <string name="password">password</string>
+
+    <string name="login_icon">login icon</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+
+    <string name="login">login</string>
+
+
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_dashboard">DashBoard</string>
+    <string name="title_notifications">Notification</string>
+
+    <string name="sign_inn">sign in</string>
+
+    <string name="sign_in">sign in</string>
+    <string name="translator">translator</string>
+    <string name="customer">customer</string>
+
+    <string name="user">user</string>
+    <string name="admin">admin</string>
+    <string name="if_you_forget_your_password_click_here">if you forget your password click here</string>
+    <string name="forgetpassword">if you forget your password click here</string>
+
+
 </resources>
